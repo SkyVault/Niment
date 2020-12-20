@@ -10,5 +10,6 @@ bin           = @["Niment"]
 
 
 # Dependencies
+requires "variant"
 
 requires "nim >= 1.4.2"
